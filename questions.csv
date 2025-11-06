@@ -1,0 +1,4 @@
+question,optionA,optionB,optionC,optionD,answer
+"p5.js 中的 'rect' 函數是用來畫什麼形狀？","圓形","矩形","三角形","線條",B
+"在 p5.js 中，哪個函數用來設定畫布背景顏色？","background()","fill()","stroke()","color()",A
+"哪個變數儲存了滑鼠的 X 座標？","mouseY","pmouseX","mouseX","key",C
